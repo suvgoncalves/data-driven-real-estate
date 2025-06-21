@@ -29,3 +29,5 @@ Este repositório simula um projeto de consultoria imobiliária baseado em dados
 ## 📬 Contacto
 
 Projeto criado por [Susana Gonçalves], analista de dados com foco na aplicação prática de inteligência de dados.
+
+[🎨 Guia de Estilo Visual do Dashboard](visual-style.md)
